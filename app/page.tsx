@@ -12,10 +12,10 @@ export default function Home() {
       </div>
       <div className="mb-80 rounded-md lg:max-w-6xl min-h-12 bg-zinc-950 w-full h-full ">
         <h1 className="text-[50px] mt-8 ml-5">
-          Hi, I'm Callum
+          Hi, I&apos;m Callum
         </h1>
         <p className="mb-5 ml-5">
-          I'm an aspiring dev studying out of Sydney, Australia.
+          I&apos;m an aspiring dev studying out of Sydney, Australia.
         </p>
       </div>
     </main>
