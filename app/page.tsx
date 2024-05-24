@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Typewriter } from 'nextjs-simple-typewriter';
-import { Titillium } from './ui/fonts';
+import { titillium } from './ui/fonts';
 import Link from 'next/link';
 
 export default function Home() {

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { titillium } from "./ui/fonts.ts";
+import { titillium } from "./ui/fonts";
 
 const inter = Inter({ subsets: ["latin"] });
 
