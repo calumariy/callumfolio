@@ -12,7 +12,7 @@ export const navItems = [
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
       titleClassName: "justify-end",
-      img: "/b1.svg",
+      img: "./b1.svg",
       spareImg: "",
     },
     {
@@ -42,8 +42,8 @@ export const navItems = [
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
       titleClassName: "justify-start",
-      img: "/grid.svg",
-      spareImg: "/b4.svg",
+      img: "./grid.svg",
+      spareImg: "./b4.svg",
     },
   
     {
@@ -53,8 +53,8 @@ export const navItems = [
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
-      img: "/b5.svg",
-      spareImg: "/grid.svg",
+      img: "./b5.svg",
+      spareImg: "./grid.svg",
     },
     {
       id: 6,
@@ -73,7 +73,7 @@ export const navItems = [
       id: 1,
       title: "A unique portfolio inspired by JavaScript Mastery",
       des: "Find out about me!",
-      img: "/portfolio.png",
+      img: "./portfolio.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/next.svg"],
       link: "https://github.com/calumariy/callumfolio",
     },
@@ -85,17 +85,17 @@ export const navItems = [
       title: "You've come too early!",
       desc: "Check back later for some cool experience.",
       className: "md:col-span-2",
-      thumbnail: "/exp2.svg",
+      thumbnail: "./exp2.svg",
     },
   ];
   
   export const socialMedia = [
     {
       id: 1,
-      img: "/git.svg",
+      img: "./git.svg",
     },
     {
       id: 2,
-      img: "/link.svg",
+      img: "./link.svg",
     },
   ];
