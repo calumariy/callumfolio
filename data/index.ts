@@ -74,7 +74,7 @@ export const navItems = [
       title: "A unique portfolio inspired by JavaScript Mastery",
       des: "Find out about me!",
       img: "./portfolio.png",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/next.svg"],
+      iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./next.svg"],
       link: "https://github.com/calumariy/callumfolio",
     },
   ];
